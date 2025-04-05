@@ -26,11 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-<p>
 ![image](https://github.com/user-attachments/assets/c80768ec-949f-4983-b572-33da2a367736)
-
-</p>
-<p>
 1️⃣ Head to Control Panel → Programs → Turn Windows features on or off
 2️⃣ Find Internet Information Services (IIS) and expand it
 3️⃣ Go to World Wide Web Services → Application Development Features
