@@ -27,8 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="![image](https://github.com/user-attachments/assets/c2731ad2-6ce4-4c5c-8728-df01f64f106a)
-"/>
+<img src="![image](https://github.com/user-attachments/assets/c2731ad2-6ce4-4c5c-8728-df01f64f106a)"/>
 </p>
 <p>
 1️⃣ Head to Control Panel → Programs → Turn Windows features on or off
