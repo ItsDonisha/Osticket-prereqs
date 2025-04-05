@@ -22,11 +22,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Azure Virtual Machine 
+- Os Ticket Installtion Files
+- RDP (Port 3389 Allowed on VM
+- Install MYSQL
+- Enabling IIS in windows vm
 
 <h2>Installation Steps</h2>
 
