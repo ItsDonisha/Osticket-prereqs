@@ -35,18 +35,31 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+![image](https://github.com/user-attachments/assets/afe31971-480e-4ee5-ad99-61193eac5add)
+
+Now that CGI is enabled, let’s get everything set up! 💻✨  
+
+1️⃣ Install the following from the **"osTicket-Installation-Files"** folder in this order:  
+   - **PHP Manager** 📂  
+   - **Rewrite Module** 🔄  
+   - **VC redist.x86.exe** ⚙️  
+   - **MySQL file** 🛠️  
+
+2️⃣ For **MySQL**, follow these steps:  
+   - Click **Typical setup** ✅  
+   - Launch **Configuration Wizard** (keep default settings)  
+   - Create a **user and password** 🔑  
+
+3️⃣ Once everything is installed, create a new directory: **C:\PHP** 📁  
+4️⃣ Unzip the **PHP 7.3.8** folder inside it! 🎀💡  
+
+And just like that, you’re one step closer to a smooth setup! 🚀💕
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, rename the configuration file by changing ost-sampleconfig.php to ost-config.php. You can find it in **C:\inetpub\wwwroot\osTicket\include**. After renaming, assign the necessary permissions to the file. Right-click ost-config.php, select Properties, then go to the Security tab. Click Advanced, disable Inheritance, and then click Add. Select Principal, type "Everyone", and confirm by clicking OK. Next, check "Full Control", click OK, and verify the permissions under Permissions Entries to ensure the changes have been applied. 🎀💻✨
+First, rename ost-sampleconfig.php to ost-config.php, located in **C:\inetpub\wwwroot\osTicket\include**. Then, update the file permissions by right-clicking ost-config.php, selecting Properties, and navigating to the Security tab. Click Advanced, disable Inheritance, and choose Add. Select Principal, enter "Everyone", and click OK. Grant Full Control, confirm with OK, and ensure the changes are applied under Permissions Entries. 🎀💻✨
+![image](https://github.com/user-attachments/assets/916fbe5a-66aa-46ec-8040-a26c3f5420a0)
 </p>
 <br />
