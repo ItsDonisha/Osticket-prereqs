@@ -27,7 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src=C:\Users\waifu\Downloads\Snapshot_25.PNG
+<img src=https://paste.pics/34fb4902885e32bed3644e9d65d877f3
 
 ()
 />
