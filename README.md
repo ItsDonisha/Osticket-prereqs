@@ -5,6 +5,8 @@
 <h2>Video Demonstration</h2>
 
 - ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com/watch?v=PIzFNOgA62Q)
+  ![image](https://github.com/user-attachments/assets/4fdb37ca-43d4-465c-94f2-b66d6a7c8bb9)
+
 
 
 <h1>osTicket - Prerequisites and Installation</h1>
@@ -31,7 +33,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-![image](https://github.com/user-attachments/assets/c80768ec-949f-4983-b572-33da2a367736)
+![image](https://github.com/user-attachments/assets/490d727c-0e67-4e55-8bb1-46579177c8e5)
+
 1️⃣ Head to Control Panel → Programs → Turn Windows features on or off
 2️⃣ Find Internet Information Services (IIS) and expand it
 3️⃣ Go to World Wide Web Services → Application Development Features
@@ -40,8 +43,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
+![image](https://github.com/user-attachments/assets/b3d1b98e-5e37-4340-9084-39bce73bebfb)
 
-![image](https://github.com/user-attachments/assets/afe31971-480e-4ee5-ad99-61193eac5add)
 
 Now that CGI is enabled, let’s get everything set up! 💻✨  
 
